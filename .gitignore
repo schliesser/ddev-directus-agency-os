@@ -1,0 +1,3 @@
+/directus/uploads/*
+/agency-os
+!.gitkeep
